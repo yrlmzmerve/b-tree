@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(50): error C2562: 'insertNode': 'void' function returning a value
+  c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(38): note: see declaration of 'insertNode'
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(54): error C3861: 'pritf': identifier not found
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(55): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(60): error C2039: 'child_ptr': is not a member of 'BitiriNode'
+  c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(19): note: see declaration of 'BitiriNode'
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(62): error C2065: 'cout': undeclared identifier
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(66): error C2039: 'child_ptr': is not a member of 'BitiriNode'
+  c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(19): note: see declaration of 'BitiriNode'
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(68): error C2065: 'cout': undeclared identifier
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(68): error C2065: 'endl': undeclared identifier
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(71): error C2065: 'Btree': undeclared identifier
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(71): error C2065: 'arr': undeclared identifier
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(71): error C2062: type 'int' unexpected
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(71): error C2143: syntax error: missing ';' before '{'
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(71): error C2447: '{': missing function header (old-style formal list?)
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(92): error C2146: syntax error: missing ';' before identifier 'fclose'
+c:\users\merve\documents\visual studio 2015\projects\b+tree\b+tree\source.cpp(82): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
